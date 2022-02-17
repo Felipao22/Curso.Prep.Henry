@@ -1,0 +1,16 @@
+h1 {
+    color:darkslateblue;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: darkslateblue;
+    padding: 50px;
+    border: 10px black solid;
+}
+#spanId {
+    margin: 50px;
+}
