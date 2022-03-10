@@ -1,5 +1,16 @@
+.divclass {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: stretch;
+}
+body {
+    background-image: url('https://phantom-expansion.unidadeditorial.es/ca87f899635400532cc5d854c7504c8b/f/jpg/assets/multimedia/imagenes/2019/06/25/15614775255199.jpg');
+    background-repeat: no-repeat;
+}
 h1 {
-    color:darkslateblue;
+    color: darkslateblue;
 }
 img {
     width: 400px;
@@ -10,7 +21,11 @@ img {
     background-color: darkslateblue;
     padding: 50px;
     border: 10px black solid;
+    margin: 0 auto;
 }
 #spanId {
     margin: 50px;
+}
+#divClass {
+    margin: 0 auto;
 }
